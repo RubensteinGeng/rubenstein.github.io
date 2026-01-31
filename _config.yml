@@ -1,1 +1,10 @@
+title: Geng Haojie
+email: haojiegeng@gmail.com
+description: >-
+  I got MSc in Physics at University of Zurich. My research focuses on the galaxy formation/evolution, specifically the morphology.
+baseurl: ""
+url: "https://rubenstein.github.io"
+theme: minima  # Built-in GitHub Pages theme
 
+# Social links
+github_username: rubenstein
